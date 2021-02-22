@@ -1,5 +1,9 @@
 package client
 
-func Client() {
+type Client struct {
+	test string
+}
+
+func main() {
 
 }
